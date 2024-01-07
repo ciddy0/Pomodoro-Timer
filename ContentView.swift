@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Pomodoro App
 //
-//  Created by Diego Cid on 1/1/24.
+//  Created by Cid on 1/1/24.
 //  Timer app to effectively study with a zen ui inspiration
 
 import SwiftUI
