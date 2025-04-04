@@ -15,6 +15,7 @@
 
 ## 🧘 Preview
 <img src="https://github.com/ciddy0/Pomodoro-Timer/assets/96404041/70a481b8-eefb-4a00-a080-bde7e9832299" width="300" alt="Pomodoro Preview" />
+
 ## 🛠️ Built With
 **SwiftUI**
 
